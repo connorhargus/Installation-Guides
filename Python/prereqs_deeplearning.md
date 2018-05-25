@@ -1,4 +1,4 @@
-## Set up a virtual environment for deep learning (with TensorFlow, Keras (on TF), and Theano)
+## Set up a virtual environment for deep learning (with TensorFlow, Keras (on TF))
 
 
  - **Install** virtualenv
@@ -27,6 +27,6 @@
 
 
  - **Install** Keras
- 
+
 ```pip install --upgrade keras```
 
