@@ -13,10 +13,20 @@
 
  - **Install** SciPy
 
-```python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose```
+```pip install numpy scipy matplotlib ipython jupyter pandas sympy nose```
+
+
+ - **Install** scikit-learn
+
+```pip install --upgrade scikit-learn```
 
 
  - **Install** TensorFlow
 
 ```pip install --upgrade tensorflow```
+
+
+ - **Install** Keras
+ 
+```pip install --upgrade keras```
 
