@@ -1,6 +1,5 @@
 
 ## Using virtualenvwrapper and virtualenv 
-(condensed from https://howchoo.com/g/nwewzjmzmjc/a-guide-to-python-virtual-environments-with-virtualenvwrapper)
 
  - **Installation** via pip
 
