@@ -16,7 +16,7 @@
 ```pip install numpy scipy matplotlib ipython jupyter pandas sympy nose```
 
 
- - **Install** scikit-learn
+ - **Install** Scikit-Learn
 
 ```pip install --upgrade scikit-learn```
 
