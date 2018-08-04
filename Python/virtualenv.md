@@ -37,9 +37,9 @@ gpip(){
 ```mkvirtualenv myenv```
 
 
- - **Create** with Python 3.6
+ - **Create** with Python 3.7
 
-```mkvirtualenv -p /usr/local/bin/python3.5 myenv36```
+```mkvirtualenv -p /usr/local/bin/python3.7 myenv37```
 
 
  - **Use** an existing virtual environment
