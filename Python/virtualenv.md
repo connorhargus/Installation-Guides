@@ -37,7 +37,7 @@ gpip(){
 ```mkvirtualenv myenv```
 
 
- - **Create** with Python 3.7
+ - **Create** a virtual environment based on Python 3.7 (created with Homebrew)
 
 ```mkvirtualenv -p /usr/local/bin/python3.7 myenv37```
 
